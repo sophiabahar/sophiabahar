@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sophiabahar
-- 👀 I’m interested in learning and breaking into the field of computational neuroscience. 
-- 🌱 I’m currently learning data science and machine learning through a certificate program created by Great Learning and MIT. 
-- 💞️ I’m looking to collaborate on projects in conjunction with mental health research and computational neuroscience techniques. 
+- 👀 I’m interested in learning about computational neuroscience, data science in public health, and data analysis. 
+- 🌱 I’m currently working on various data analysis and data science projects to improve my skills. 
+- 💞️ I’m looking to collaborate on projects about mental health research, public health research, using data science, data analysis, bioinformatics, and computational biology techniques. 
 - 📫 How to reach me by email at: sofishka96@gmail.com 
 
 <!---
